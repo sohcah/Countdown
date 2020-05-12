@@ -1,2 +1,2 @@
-# Countdown
-A Countdown App
+# Countdown App
+A Countdown App created with Expo
