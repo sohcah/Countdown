@@ -1160,10 +1160,10 @@
     react-is "^16.13.0"
     use-subscription "^1.4.0"
 
-"@react-navigation/material-bottom-tabs@^5.2.2":
-  version "5.2.2"
-  resolved "https://registry.yarnpkg.com/@react-navigation/material-bottom-tabs/-/material-bottom-tabs-5.2.2.tgz#07d29ce5b65210eab0872b1f8ae8e1a19e1fa00b"
-  integrity sha512-ZHtCr9OkTBV5nyg+CQrAB5UOZO4/7FwF8cVmkugyOEKrnEcD0IxL8kCH/eQ8D0T7fHpbUHbSA8vVoSqyPNq2BQ==
+"@react-navigation/material-bottom-tabs@^5.2.8":
+  version "5.2.10"
+  resolved "https://registry.yarnpkg.com/@react-navigation/material-bottom-tabs/-/material-bottom-tabs-5.2.10.tgz#f2378c5e313d9e175ba5e9b3ce41bb5815a3e615"
+  integrity sha512-UG9kbE1ICGfEbKzKtBdYi7xxFCkDPtubIXhwvvZoj8Ck3wOu3CjYyzZM3TOV5PlHbHk6WFJmdB4GclstX7ztmQ==
 
 "@react-navigation/native@^5.3.0":
   version "5.3.0"
